@@ -380,15 +380,8 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20200623104315.2"># Week 1
-
-### [Week1~Week5](https://s40723233.github.io/cd2020/content/Week1~Week5.html)
-
-* 建立倉儲和架設網站
-* 準備分組協同
-* 進行問題討論
-* 課程說明 
-
+<t tx="leo.20200623104315.2">## [filezilla安裝](https://www.youtube.com/embed/ChzgoKAhLHI)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ChzgoKAhLHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20200623104318.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -477,16 +470,8 @@ Created by [40723233](https://s40723233.github.io/cd2020/content/index.html)
 
 						
 </t>
-<t tx="leo.20200623111927.2"># Week 1
-
-### [Week1~Week5](https://s40723233.github.io/cd2020/content/Week1~Week5.html)
-
-* 建立倉儲和架設網站
-* 準備分組協同
-* 進行問題討論
-* 課程說明 
-
-</t>
+<t tx="leo.20200623111927.2"># [期末報告](https://youtu.be/7w1P1gXLovU)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7w1P1gXLovU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623112054.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -496,7 +481,7 @@ Created by [40723233](https://s40723233.github.io/cd2020/content/index.html)
 
 						
 </t>
-<t tx="leo.20200623112054.2">&lt;iframe height="600" src="https://s40723210.github.io/cd2020/content/MechatronicDesignCases.html" width="880"&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200623112054.2">&lt;iframe height="600" src="https://s40723233.github.io/cd2020/content/Assignment%201.html" width="880"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623112058.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
