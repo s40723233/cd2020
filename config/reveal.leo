@@ -496,16 +496,7 @@ Created by [40723233](https://s40723233.github.io/cd2020/content/index.html)
 
 						
 </t>
-<t tx="leo.20200623112054.2"># Week 1
-
-### [Week1~Week5](https://s40723233.github.io/cd2020/content/Week1~Week5.html)
-
-* 建立倉儲和架設網站
-* 準備分組協同
-* 進行問題討論
-* 課程說明 
-
-</t>
+<t tx="leo.20200623112054.2">&lt;iframe height="600" src="https://s40723210.github.io/cd2020/content/MechatronicDesignCases.html" width="880"&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623112058.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -515,16 +506,8 @@ Created by [40723233](https://s40723233.github.io/cd2020/content/index.html)
 
 						
 </t>
-<t tx="leo.20200623112058.2"># Week 1
-
-### [Week1~Week5](https://s40723233.github.io/cd2020/content/Week1~Week5.html)
-
-* 建立倉儲和架設網站
-* 準備分組協同
-* 進行問題討論
-* 課程說明 
-
-</t>
+<t tx="leo.20200623112058.2">## [遠端遙控伺服](https://youtu.be/0zhIHZCtum8)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0zhIHZCtum8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623112100.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -534,16 +517,8 @@ Created by [40723233](https://s40723233.github.io/cd2020/content/index.html)
 
 						
 </t>
-<t tx="leo.20200623112100.2"># Week 1
-
-### [Week1~Week5](https://s40723233.github.io/cd2020/content/Week1~Week5.html)
-
-* 建立倉儲和架設網站
-* 準備分組協同
-* 進行問題討論
-* 課程說明 
-
-</t>
+<t tx="leo.20200623112100.2">## [REMOTE API 虛擬主機連線](https://youtu.be/DUDub-n0yRc)
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DUDub-n0yRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 <t tx="leo.20200623112102.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
